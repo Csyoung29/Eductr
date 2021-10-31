@@ -1,0 +1,2 @@
+# Eductr
+GitHub Pages
